@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Latihan RecycleView</string>
+    <string name="title_activity_halaman_utama">HalamanUtamaActivity</string>
+</resources>
